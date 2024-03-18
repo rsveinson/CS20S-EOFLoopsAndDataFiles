@@ -1,0 +1,7 @@
+Sang Cho 42000 808.00
+Jill Grossman 25500 490.00
+Jason Jones 26000 500.00
+Philip Jorge 28000 538.00
+Debra Roberts 42000 808.00
+Christa Smith 28900 556.00
+Tanya White 32000 615.00
